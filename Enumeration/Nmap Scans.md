@@ -1,3 +1,4 @@
+[[Enumeration]]
 ## Service Detection
 Adding `-sV` to your Nmap command will collect and determine service and version information for the open ports.
 ```

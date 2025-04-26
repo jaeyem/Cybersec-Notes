@@ -1,3 +1,5 @@
+[[Web Common Attacks]]
+
 simply modifiying the values eg.
 ```
 http://website.com/index.php?id=1

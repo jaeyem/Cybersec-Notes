@@ -1,3 +1,4 @@
+[[Writeup]]
 Practice the skills you have learned in the Network Security module.
 
 ### introduction
